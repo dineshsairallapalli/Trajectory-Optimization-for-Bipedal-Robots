@@ -6,7 +6,7 @@ Here’s a detailed and compelling description for the GitHub repository of your
 
 ### **Trajectory Optimization for Bipedal Robots**
 
-This project focuses on the development of energy-efficient and robust motion plans for bipedal robots, combining advanced numerical optimization techniques with real-time control systems. The goal is to improve dynamic stability, enhance balance control, and prevent falls during locomotion in challenging environments. This work was conducted as part of my graduate research in collaboration with **NYU’s Applied Dynamics and Optimization Laboratory**.
+This project focuses on the development of energy-efficient and robust motion plans for bipedal robots, combining advanced numerical optimization techniques with real-time control systems. The goal is to improve dynamic stability, enhance balance control, and prevent falls during locomotion in challenging environments. This work was conducted as part of my Graduate research (M.S Project) in collaboration with **NYU’s Applied Dynamics and Optimization Laboratory**.
 
 ---
 
@@ -57,7 +57,3 @@ This project is part of broader research in **dynamics, control, and optimizatio
 - Expand the optimization framework to handle diverse terrains and real-world uncertainties.
 - Integrate machine learning models for adaptive gait adjustments in unpredictable scenarios.
 - Transition the algorithms to hardware implementations for humanoid robots and assistive wearable systems.
-
----
-
-This description not only highlights the technical and research aspects of your project but also provides a clear structure for potential collaborators or recruiters exploring your repository.
