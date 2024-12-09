@@ -37,7 +37,7 @@ This project focuses on the development of energy-efficient and robust motion pl
   - Trajectory optimization using numerical solvers.
   - Balance metrics integrated with state detection algorithms.
 - **Tools & Frameworks**:
-  - Python, MATLAB, and C++ for algorithm implementation.
+  - Eigen Library, Python, MATLAB, and C++ for algorithm implementation.
   - Simulation environments for testing multibody dynamics and constraints.
 - **Control Techniques**:
   - Fall prediction and prevention mechanisms.
