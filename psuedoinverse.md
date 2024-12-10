@@ -1,8 +1,4 @@
-### **Repository Name**: `Bipedal-Robot-Trajectory-Optimization`
-
----
-
-### **Repository Description**
+### **Description**
 This repository provides Python implementations of core algorithms for optimizing and controlling bipedal robot trajectories. The primary focus is on computing Jacobians and their pseudo-inverses to enable precise motion control and stability in dynamic walking scenarios.
 
 ---
